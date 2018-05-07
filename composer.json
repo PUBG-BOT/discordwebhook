@@ -1,3 +1,4 @@
+composer require nopjmp/discord-webhooks
 {
     "name": "nopjmp/discord-webhooks",
     "description": "A simple Discord webhook client library.",
