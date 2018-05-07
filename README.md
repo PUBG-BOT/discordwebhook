@@ -33,6 +33,6 @@ $webhook->username('Bot')->message('Hello, Human!')->embed($embed)->send();
 
 The project is MIT licensed. To read the full license, open [LICENSE.md](LICENSE.md).
 
-## Contributing
+## Contributing 
 
 Pull requests and issues are open!
